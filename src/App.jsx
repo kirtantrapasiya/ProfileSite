@@ -12,7 +12,7 @@ import ProjectData from "./Project/projectdata";
 import Contact from "./Contact/Contact";
 import Footer from "./Footer/Footer";
 import { useRef, useState } from "react";
-import Image from "./Images/profile.png";
+import Image from "./Images/dbc1b1bc-a29b-474b-94db-da2813df12e6-removebg-preview (2).png";
 import Logo from "./Images/logo.png"; 
 
 function App() {
