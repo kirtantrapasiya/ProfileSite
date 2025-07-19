@@ -15,7 +15,7 @@ const Picture = ({Image}) => {
       </div>
       <img
         src={Image}
-        alt="Kirtan Trapasiya"
+        alt="Kirtan Trapasiya's Photo"
         className="absolute w-72 h-auto object-cover z-10 rounded-xl "
       />
     </div>
