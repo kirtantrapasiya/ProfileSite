@@ -77,11 +77,11 @@ const Navbar = ({Logo}) => {
     >
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         {/* Logo */}
-        <a href="#home" className="flex items-center space-x-2">
+        <a href="#home" className="flex items-center">
           <img
             src={Logo}
             alt="Logo"
-            className="w-10 h-10 rounded-full object-cover"
+            className="w-12 h-auto rounded-full object-cover"
           />
           <span className="text-white font-bold text-lg">Kirtan</span>
         </a>
